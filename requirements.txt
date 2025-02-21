@@ -1,3 +1,9 @@
 python-dotenv
 langchain
 openai
+panel
+langchain-community
+chromadb
+pypdf
+docarray
+tiktoken
